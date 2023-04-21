@@ -18,7 +18,7 @@
 - 本项目被[微软的DialoGPT项目](https://github.com/microsoft/DialoGPT) 引用 （为了简化生成方法，加快生成速度，删除了MMI的生成方法）
 
 ## 运行环境
-python3.10.11、 transformers==4.2.0、pytorch==2.0.0
+python3.10.11、 transformers==4.28.1、pytorch==2.0.0
 windows.desktop
 
 ## 项目结构
